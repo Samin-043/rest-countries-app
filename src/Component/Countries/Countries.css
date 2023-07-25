@@ -1,0 +1,25 @@
+.countryDiv {
+    border: 2px solid #fff;
+    max-width: max-content;
+    text-align: center;
+    margin: 0.5rem;
+    height: 400px;
+    padding: 0.5rem;
+    float: left;
+}
+
+.image{
+    width: 300px;
+    height: 200px;
+}
+
+.calculation{
+    color: blueviolet;
+}
+
+
+.calculation:hover{
+    color: darkgreen;
+    text-decoration: underline;
+    text-decoration-style: solid;
+}
